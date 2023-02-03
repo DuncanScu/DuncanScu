@@ -1,4 +1,4 @@
-# Hi! I'm Duncan and I am a Full Stack Developer
+# Hi! I'm Duncan
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=DuncanScu&show_icons=true)
 
